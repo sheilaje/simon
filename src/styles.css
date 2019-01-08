@@ -1,0 +1,61 @@
+body {
+  background-color: #7FDBFF;
+}
+
+.colorbox{
+  width: 200px;
+  height: 200px;
+  /* border: 25px solid green; */
+  padding: 25px;
+  margin: 25px;
+  background-color: rgba(255, 0, 0, 0);
+}
+
+/* 'red', 'green', 'blue', 'yellow', 'orange', 'pink' */
+#red{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: red;
+}
+
+#green{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: green;
+}
+
+#blue{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: blue;
+}
+
+#yellow{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: yellow;
+}
+
+#orange{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: orange;
+}
+
+#pink{
+  width: 40px;
+  height: 40px;
+  padding: 25px;
+  margin: 25px;
+  background-color: pink;
+}
